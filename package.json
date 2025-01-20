@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Subhan-Tanveer/Google-Gemini",
+  "homepage": "https://github.com/Subhan-Tanveer/GoogleGemini.git",
   "name": "gemini",
   "version": "0.1.0",
   "private": true,
@@ -7,7 +7,6 @@
     "@google/generative-ai": "^0.21.0",
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
-    "gh-pages": "^6.3.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "^5.0.1",
@@ -38,5 +37,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
